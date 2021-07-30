@@ -1,2 +1,1 @@
-# mario-runing
-yh
+# PRO-C37-INFINITE-RUNNER-GAME
